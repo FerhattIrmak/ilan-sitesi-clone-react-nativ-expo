@@ -14,7 +14,7 @@
 ![Image](https://github.com/user-attachments/assets/727a8090-91b9-48a2-8cb6-170913681c56)
 
 
-Projede kullandığım teknolojiler/yaklaşımlar:
+ Projede kullandığım teknolojiler/yaklaşımlar:
 
 -React Native
 -Expo
@@ -31,3 +31,4 @@ Projede kullandığım teknolojiler/yaklaşımlar:
 -React Native Reanimated
 -AsyncStorage (Yerel veri saklama)
 -Toast Mesajları (react-native-toast-message)
+
