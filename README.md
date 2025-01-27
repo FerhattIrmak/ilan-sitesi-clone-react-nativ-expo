@@ -1,6 +1,8 @@
 # ilan-sitesi-clone-react-nativ-expo
 İlan Sitesi Clone (React Native)
 
+![Image](https://github.com/user-attachments/assets/80c29d13-e561-41aa-820d-ec4637564718)
+
 Projede kullandığım teknolojiler/yaklaşımlar:
 
 -React Native
